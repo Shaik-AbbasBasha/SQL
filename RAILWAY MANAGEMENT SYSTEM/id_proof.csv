@@ -1,0 +1,26 @@
+id,passenger_id,proof_type,proof_number
+1,1,Aadhar,ID100001
+2,2,PAN,ID100002
+3,3,Passport,ID100003
+4,4,Driving License,ID100004
+5,5,Aadhar,ID100005
+6,6,PAN,ID100006
+7,7,Passport,ID100007
+8,8,Driving License,ID100008
+9,9,Aadhar,ID100009
+10,10,PAN,ID100010
+11,11,Passport,ID100011
+12,12,Driving License,ID100012
+13,13,Aadhar,ID100013
+14,14,PAN,ID100014
+15,15,Passport,ID100015
+16,16,Driving License,ID100016
+17,17,Aadhar,ID100017
+18,18,PAN,ID100018
+19,19,Passport,ID100019
+20,20,Driving License,ID100020
+21,21,Aadhar,ID100021
+22,22,PAN,ID100022
+23,23,Passport,ID100023
+24,24,Driving License,ID100024
+25,25,Aadhar,ID100025

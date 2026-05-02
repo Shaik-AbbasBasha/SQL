@@ -1,0 +1,101 @@
+treatment_id,appointment_id,diagnosis,treatment_details
+1,1,Common Cold,Rest and Vitamin C tablets
+2,2,Headache,Paracetamol and hydration
+3,3,Fever,Bed rest and antibiotics
+4,4,Diabetes,Insulin therapy and diet control
+5,5,Hypertension,BP medication and salt reduction
+6,6,Flu,Antiviral medication and rest
+7,7,Back Pain,Pain relief gel and physiotherapy
+8,8,Asthma,Inhaler usage and monitoring
+9,9,Allergy,Antihistamine tablets
+10,10,Stomach Pain,Antacid medication
+11,11,Migraine,Painkillers and rest
+12,12,Typhoid,Antibiotics and liquid diet
+13,13,Cold,Steam inhalation and tablets
+14,14,Fracture,Plaster cast and rest
+15,15,Infection,Antibiotic course
+16,16,Acidity,Antacid syrup
+17,17,Cough,Cough syrup and rest
+18,18,Chest Pain,ECG and medication
+19,19,Diabetes Check,Insulin adjustment
+20,20,High BP,Blood pressure control tablets
+21,21,Food Poisoning,ORS and fluids
+22,22,Stomach Infection,Antibiotics and rest
+23,23,Fever,Paracetamol and fluids
+24,24,Joint Pain,Pain relief medication
+25,25,Cold,Rest and hydration
+26,26,Skin Rash,Ointment application
+27,27,Asthma Attack,Inhaler and emergency care
+28,28,Migraine,Painkillers and rest
+29,29,Diabetes,Insulin therapy
+30,30,Hypertension,Medication and diet control
+31,31,Cough,Antibiotic syrup
+32,32,Fever,Paracetamol tablets
+33,33,Back Pain,Physiotherapy
+34,34,Allergy,Antihistamine
+35,35,Typhoid,Antibiotics and rest
+36,36,Cold,Steam inhalation
+37,37,Head Injury,CT scan and observation
+38,38,Stomach Pain,Antacid tablets
+39,39,Flu,Rest and hydration
+40,40,Chest Infection,Antibiotics
+41,41,Migraine,Painkillers
+42,42,Diabetes,Insulin monitoring
+43,43,Hypertension,BP medication
+44,44,Fracture,Plaster support
+45,45,Fever,Paracetamol
+46,46,Cough,Syrup and rest
+47,47,Cold,Vitamin C tablets
+48,48,Allergy,Antihistamine tablets
+49,49,Food Poisoning,ORS and fluids
+50,50,Asthma,Inhaler usage
+51,51,Back Pain,Physiotherapy
+52,52,Headache,Painkillers
+53,53,Diabetes,Insulin therapy
+54,54,Hypertension,Medication
+55,55,Cold,Steam inhalation
+56,56,Fever,Paracetamol
+57,57,Cough,Cough syrup
+58,58,Allergy,Ointment and tablets
+59,59,Stomach Pain,Antacid syrup
+60,60,Asthma,Inhaler treatment
+61,61,Flu,Rest and fluids
+62,62,Migraine,Pain relief tablets
+63,63,Fracture,Plaster cast
+64,64,Diabetes,Insulin adjustment
+65,65,Hypertension,BP control medicines
+66,66,Fever,Paracetamol
+67,67,Cold,Steam inhalation
+68,68,Cough,Syrup
+69,69,Allergy,Antihistamine
+70,70,Back Pain,Physiotherapy
+71,71,Asthma,Inhaler usage
+72,72,Stomach Infection,Antibiotics
+73,73,Typhoid,Antibiotics course
+74,74,Diabetes,Insulin therapy
+75,75,Hypertension,BP medication
+76,76,Fever,Paracetamol
+77,77,Cold,Rest and fluids
+78,78,Cough,Syrup treatment
+79,79,Fracture,Plaster cast
+80,80,Migraine,Painkillers
+81,81,Allergy,Antihistamine tablets
+82,82,Asthma,Emergency inhaler
+83,83,Back Pain,Physiotherapy
+84,84,Diabetes,Insulin monitoring
+85,85,Hypertension,Medication
+86,86,Fever,Paracetamol
+87,87,Cold,Steam inhalation
+88,88,Cough,Syrup
+89,89,Stomach Pain,Antacid
+90,90,Allergy,Ointment
+91,91,Typhoid,Antibiotics
+92,92,Fracture,Plaster support
+93,93,Migraine,Painkillers
+94,94,Diabetes,Insulin therapy
+95,95,Hypertension,BP control tablets
+96,96,Fever,Paracetamol
+97,97,Cold,Rest and fluids
+98,98,Cough,Cough syrup
+99,99,Asthma,Inhaler treatment
+100,100,Back Pain,Physiotherapy and rest

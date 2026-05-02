@@ -1,0 +1,26 @@
+food_id,food_name,food_type,price
+1,Veg Biryani,Veg,120
+2,Chicken Curry,Non-Veg,180
+3,Tea,Veg,20
+4,Coffee,Veg,30
+5,Paneer Butter Masala,Veg,150
+6,Egg Curry,Non-Veg,130
+7,Samosa,Veg,15
+8,Bread Omelette,Non-Veg,50
+9,Idli,Veg,40
+10,Dosa,Veg,60
+11,Chapati,Veg,25
+12,Rice Plate,Veg,80
+13,Chicken Biryani,Non-Veg,200
+14,Fish Curry,Non-Veg,220
+15,Upma,Veg,35
+16,Poha,Veg,30
+17,Puri Sabji,Veg,50
+18,Paratha,Veg,45
+19,Cold Drink,Veg,40
+20,Ice Cream,Veg,60
+21,Sandwich,Veg,70
+22,Burger,Non-Veg,90
+23,Pizza,Veg,120
+24,Noodles,Veg,100
+25,Pasta,Veg,110

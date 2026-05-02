@@ -1,0 +1,26 @@
+train_id,train_name,source,destination,created_at
+1,Rajdhani Express,Delhi,Mumbai,05-01-2024
+2,Shatabdi Express,Hyderabad,Bangalore,10-02-2024
+3,Duronto Express,Chennai,Kolkata,15-03-2024
+4,Garib Rath Express,Delhi,Patna,20-04-2024
+5,Intercity Express,Pune,Nagpur,25-05-2024
+6,Superfast Express,Mumbai,Ahmedabad,05-06-2024
+7,Jan Shatabdi Express,Hyderabad,Vizag,18-01-2024
+8,Humsafar Express,Delhi,Lucknow,22-02-2024
+9,Tejas Express,Mumbai,Goa,28-03-2024
+10,Vande Bharat Express,Delhi,Varanasi,02-04-2024
+11,Howrah Mail,Kolkata,Chennai,05-01-2025
+12,Deccan Express,Pune,Mumbai,10-02-2025
+13,Konark Express,Mumbai,Bhubaneswar,15-03-2025
+14,Coromandel Express,Chennai,Kolkata,20-04-2025
+15,Karnataka Express,Delhi,Bangalore,25-05-2025
+16,Tamil Nadu Express,Delhi,Chennai,05-06-2025
+17,Goa Express,Delhi,Goa,18-01-2025
+18,Andhra Pradesh Express,Delhi,Hyderabad,22-02-2025
+19,Chennai Express,Mumbai,Chennai,28-03-2025
+20,Mumbai Mail,Mumbai,Kolkata,02-04-2025
+21,Golden Temple Mail,Mumbai,Amritsar,05-01-2026
+22,Frontier Mail,Mumbai,Delhi,10-02-2026
+23,Nizamuddin Express,Delhi,Hyderabad,15-03-2026
+24,Southern Express,Chennai,Delhi,20-04-2026
+25,Northern Express,Delhi,Chandigarh,25-05-2026
